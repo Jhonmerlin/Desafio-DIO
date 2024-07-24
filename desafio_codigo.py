@@ -28,3 +28,4 @@ elif xp_heroi >=9001 and xp_heroi <= 10000:
 
 elif xp_heroi >=10001:
     print(f'O Herói de nome {nome_heroi} está no nível {elos[7]}')
+    
